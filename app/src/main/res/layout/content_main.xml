@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="br.com.slangsexgen.app.MainActivity"
+    tools:showIn="@layout/activity_main"
+    android:orientation="vertical"
+    android:padding="16dp"
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_dia_semana"
+        android:layout_gravity="center_horizontal"
+        android:text="Hoje é sexta feira, dia de"
+        android:textSize="21sp"
+        android:textColor="#009999"
+        android:textStyle="bold"
+        />
+<View
+    android:layout_width="wrap_content"
+    android:layout_height="50dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:id="@+id/linear_meme"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_slang"
+            android:textSize="21sp"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/homer"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"/>
+
+
+    <Button
+        android:layout_width="140dp"
+        android:layout_height="100dp"
+        android:text="descubra"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/btn_gen"
+        android:padding="10dp"
+        android:background="#009999"
+        android:textColor="#FFF"
+        />
+
+
+
+</LinearLayout>

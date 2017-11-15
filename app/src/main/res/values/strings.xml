@@ -1,0 +1,206 @@
+<resources>
+    <string name="app_name">Slang Sex Generator</string>
+    <string name="title_activity_main">Slang Sex Generator</string>
+
+    <array name="substantivos">
+        <item>a bicicleta</item>
+        <item>o malaquias</item>
+        <item>o guarda roupas</item>
+        <item>o sapato</item>
+        <item>a chave de fendas</item>
+        <item>a carteira</item>
+        <item>o celular</item>
+        <item>o patinete</item>
+        <item>na panela</item>
+        <item>o livro </item>
+        <item>na livraria</item>
+        <item>na camurça</item>
+        <item>na jaqueta</item>
+        <item>a chapa</item>
+        <item>o megafone</item>
+        <item>o microfone</item>
+        <item>o palhaço</item>
+        <item>a chapinha</item>
+        <item>a tesoura</item>
+        <item>a gaveta</item>
+        <item>a beliche</item>
+        <item>a mesa de sinuca</item>
+        <item>no canguru</item>
+        <item>o celular</item>
+        <item>no celular</item>
+        <item>na gaveta</item>
+        <item>na chatuba</item>
+        <item>na catuaba</item>
+        <item>no coróte</item>
+        <item>em nova iguaçu</item>
+        <item>na prima</item>
+        <item>a luz vermelha</item>
+        <item>a lanterna</item>
+        <item>o ventilador</item>
+        <item>o carburador</item>
+        <item>a correia dentada</item>
+        <item>a égua</item>
+        <item>o compasso</item>
+        <item>o liquidificador</item>
+        <item>o unicórnio</item>
+        <item>a porrada com capitão gancho</item>
+        <item>o cuzcuz na manteiga</item>
+        <item>a nutela</item>
+        <item>a doriana</item>
+        <item>a dama de espadas</item>
+        <item>o ás de copas</item>
+    </array>
+
+    <array name="verbos">
+        <item>amar</item>
+        <item>partir</item>
+        <item>comer</item>
+        <item>falar</item>
+        <item>estudar</item>
+        <item>cantar</item>
+        <item>vender</item>
+        <item>beber</item>
+        <item>correr</item>
+        <item>agir</item>
+        <item>brincar</item>
+        <item>andar</item>
+        <item>escrever</item>
+        <item>gostar</item>
+        <item>corrigir</item>
+        <item>jogar</item>
+        <item>receber</item>
+        <item>dançar</item>
+        <item>pensar</item>
+        <item>chegar</item>
+        <item>chamar</item>
+        <item>lembrar</item>
+        <item>encontrar</item>
+        <item>ficar</item>
+        <item>usar</item>
+        <item>pular</item>
+        <item>começar</item>
+        <item>proteger</item>
+        <item>passear</item>
+        <item>aprender</item>
+        <item>voar</item>
+        <item>viajar</item>
+        <item>dirigir</item>
+        <item>conhecer</item>
+        <item>comprar</item>
+        <item>voltar</item>
+        <item>trabalhar</item>
+        <item>dividir</item>
+        <item>levar</item>
+        <item>viver</item>
+        <item>dever</item>
+        <item>achar</item>
+        <item>parar</item>
+        <item>entender</item>
+        <item>cumprir</item>
+        <item>olhar</item>
+        <item>colocar</item>
+        <item>procurar</item>
+        <item>acordar</item>
+        <item>lavar</item>
+        <item>mexer</item>
+        <item>desejar</item>
+        <item>conversar</item>
+        <item>passar</item>
+        <item>atender</item>
+        <item>precisar</item>
+        <item>esperar</item>
+        <item>deixar</item>
+        <item>fingir</item>
+        <item>esquecer</item>
+        <item>mandar</item>
+        <item>assistir</item>
+        <item>avisar</item>
+        <item>almoçar</item>
+        <item>chorar</item>
+        <item>fechar</item>
+        <item>nadar</item>
+        <item>participar</item>
+        <item>morar</item>
+        <item>bater</item>
+        <item>acontecer</item>
+        <item>convidar</item>
+        <item>contar</item>
+        <item>julgar</item>
+        <item>caminhar</item>
+        <item>descer</item>
+        <item>buscar</item>
+        <item>sentar</item>
+        <item>entrar</item>
+        <item>desistir</item>
+        <item>agradecer</item>
+        <item>adquirir</item>
+        <item>possuir</item>
+        <item>excluir</item>
+        <item>mudar</item>
+        <item>encher</item>
+        <item>informar</item>
+        <item>continuar</item>
+        <item>ajudar</item>
+        <item>escolher</item>
+        <item>sonhar</item>
+        <item>apresentar</item>
+        <item>entreter</item>
+        <item>realizar</item>
+        <item>acabar</item>
+        <item>beijar</item>
+        <item>pegar</item>
+        <item>tomar</item>
+        <item>permitir</item>
+        <item>ligar</item>
+        <item>ganhar</item>
+        <item>preocupar</item>
+        <item>surgir</item>
+        <item>casar</item>
+        <item>repetir</item>
+        <item>levantar</item>
+        <item>gritar</item>
+        <item>parecer</item>
+        <item>decidir</item>
+        <item>vencer</item>
+        <item>permanecer</item>
+        <item>colorir</item>
+        <item>zoar</item>
+        <item>sofrer</item>
+        <item>encaminhar</item>
+        <item>existir</item>
+        <item>aparecer</item>
+        <item>conjugar</item>
+        <item>discutir</item>
+        <item>aproveitar</item>
+        <item>ensinar</item>
+        <item>mostrar</item>
+        <item>tornar</item>
+        <item>chover</item>
+        <item>ceder</item>
+        <item>marcar</item>
+        <item>precaver</item>
+        <item>respeitar</item>
+        <item>exercer</item>
+        <item>imaginar</item>
+        <item>aguardar</item>
+        <item>oferecer</item>
+        <item>ingerir</item>
+        <item>compartilhar</item>
+        <item>plantar</item>
+        <item>cortar</item>
+        <item>tentar</item>
+        <item>enviar</item>
+        <item>merecer</item>
+        <item>varrer</item>
+        <item>crescer</item>
+        <item>educar</item>
+        <item>compreender</item>
+        <item>iniciar</item>
+        <item>observar</item>
+        <item>garantir</item>
+        <item>analisar</item>
+        <item>entregar</item>
+        <item>responder</item>
+        <item>acompanhar</item>
+    </array>
+</resources>
